@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "a92ac855-7097-4b4a-951c-5e1ad66f1816",
+    "appType": "clockface",
+    "appDisplayName": "Hello world",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Hello world"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

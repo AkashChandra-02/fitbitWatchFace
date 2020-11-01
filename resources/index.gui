@@ -1,0 +1,5 @@
+<svg class="background">
+  <image href="wavyLines.jpg" />
+  <text id="clockFaceHours" class="clockFace" />
+  <text id="clockFaceMinutes" class="clockFace" />
+</svg>
